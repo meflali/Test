@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+
+.title{
+    background-color: white;
+    padding: 50px 50px;
+    text-align: center;
+}

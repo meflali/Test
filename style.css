@@ -1,9 +1,17 @@
 body{
-    background-color: aqua;
+    margin: 0;
+    padding: 0;
 }
 
 .title{
     background-color: white;
     padding: 50px 50px;
     text-align: center;
+    margin: 20% 30%;
+}
+button{
+   margin-top: 40px;
+}
+h1{
+    color: black;
 }

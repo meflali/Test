@@ -26,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -41,6 +42,7 @@
       <updated>1636055491492</updated>
       <workItem from="1636055493365" duration="108000" />
       <workItem from="1636055605694" duration="70000" />
+      <workItem from="1636055728493" duration="263000" />
     </task>
     <servers />
   </component>
